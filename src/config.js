@@ -12,3 +12,5 @@ export const INITIAL_VIEWPORT = {
 
 export const WIDESCREEN_STEP = '770px';
 export const DRAWER_WIDTH = '300px';
+
+export const LOCALSTORAGE_ENTRY = 'geomatico.mapbox-style-live-editor.style';
