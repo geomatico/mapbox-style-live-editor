@@ -19,7 +19,7 @@
    "sources":{
       "openmaptiles":{
          "type":"vector",
-         "url":"https://tileserver.geomatico.es/data/v3.json"
+         "url":"https://tileserver.geomatico.es/data/openmaptiles.json"
       }
    },
    "glyphs":"https://tileserver.geomatico.es/fonts/{fontstack}/{range}.pbf",
